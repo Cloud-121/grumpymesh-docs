@@ -1,0 +1,44 @@
+site_name: GrumpyMesh
+site_description: Dummy product and development pages for GrumpyMesh.
+site_url: https://docs.grumpymesh.com/
+theme:
+  name: material
+  custom_dir: overrides
+  logo: false
+  favicon: assets/images/favicon.png
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+      primary: black
+      accent: orange
+    - scheme: slate
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+      primary: black
+      accent: orange
+  features:
+    - navigation.tabs
+    - navigation.top
+    - navigation.instant
+    - content.code.copy
+
+extra_css:
+  - stylesheets/extra.css
+
+nav:
+  - Home: index.md
+  - Products:
+      - Grumpy Mesh Board:
+          - Specs: Grumpyboard/board-specs.md
+          - Getting Started: Grumpyboard/getting-started.md
+          - Expansion Port: Grumpyboard/expansion-port.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/@GrumpyDadOutdoors
+    - icon: fontawesome/solid/cart-shopping
+      link: https://shop.grumpymesh.com
