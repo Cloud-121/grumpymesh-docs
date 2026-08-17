@@ -31,6 +31,7 @@ extra_css:
 nav:
   - Home: index.md
   - Products:
+      - Product Docs: products_docs.md
       - Grumpy Mesh Board:
           - Specs: Grumpyboard/board-specs.md
           - Getting Started: Grumpyboard/getting-started.md

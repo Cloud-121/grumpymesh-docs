@@ -30,3 +30,10 @@ The board also includes an external antenna for your board, but it also allows y
 ### Expansion port
 
 The board includes a Expansion port, This allowing you to add additional accessories like temperature sensors to monitor your enclosure or outside temperature, a wind sensor, rain sensor, and almost anything you'd like. With open documentation on how to use it, the possibilities are endless.
+
+<div class="feature-grid feature-grid--two">
+<a class="feature-card" href="../getting-started/">
+<span class="card-kicker"></span>
+<h2>Move To Getting Started Guide</h2>
+</a>
+</div>
