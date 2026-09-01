@@ -1,3 +1,7 @@
+<div class="safety-warning" role="alert">
+  <strong>Do not power on the board without an antenna attached.</strong> Doing so may damage the board and void exchanges.
+</div>
+
 ## Thank you for buying a Grumpy Board
 
 ### This guide will explain how to assemble and set up your Grumpyboard from start to finish.

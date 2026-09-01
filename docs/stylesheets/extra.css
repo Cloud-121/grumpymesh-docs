@@ -54,6 +54,22 @@ body::before {
 .md-content a { color: var(--gm-orange); }
 .md-footer { background: #080808; }
 
+.safety-warning {
+  background: rgba(176, 0, 32, .2);
+  border: 1px solid #ff5252;
+  border-left-width: 4px;
+  border-radius: .5rem;
+  color: #fff;
+  font-size: 1rem;
+  line-height: 1.5;
+  margin: 1rem 0 2rem;
+  padding: .85rem 1rem;
+}
+
+.safety-warning strong {
+  color: #ff8a8a;
+}
+
 .hero-panel { margin: 2rem 0 4rem; max-width: 800px; }
 .hero-panel h1 { margin: .6rem 0 1.5rem; }
 .hero-panel h1 span { color: var(--gm-orange); }
