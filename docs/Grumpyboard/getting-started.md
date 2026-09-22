@@ -36,7 +36,7 @@ To get started assembling your board, you'll need the following:
 - **Wire your 5V power source:** On the other side, repeat the same process. Plug the other included JST-PH lead into the right 5V power input port. Connect the red wire from this lead to the left wire terminal on the right port labeled "+", and connect the black wire to the right wire terminal on the left port labeled "-". You can now wire your 5V power source into this port, connecting the negative wire to "-" and the positive wire to "+".
 - **Tighten everything, and you're done!** Inspect the wires and make sure they are all connected to the correct ports. Tighten the 4x wire terminal screws and visually inspect the entire board. You now have a finished and assembled Grumpy Board.
 
-
+![Finished Grumpy Board wiring](finished-wiring.webp)
 
 
 ## How to flash your board
@@ -77,3 +77,6 @@ Coming Soon
 ----------------------------
 
 ## You now have a fully finished Grumpy Board!
+
+![Finished Grumpy Board installed on a tower](finishedontower.webp)
+### - One American Grumpy Repeater
