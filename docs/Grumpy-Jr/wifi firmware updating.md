@@ -1,4 +1,4 @@
-# Upgrade Firmware Over Wi-Fi
+# Update Firmware Over Wi-Fi
 
 Follow these steps to upgrade your Grumpy Jr repeater firmware over Wi-Fi.
 
