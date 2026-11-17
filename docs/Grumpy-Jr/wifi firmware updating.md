@@ -38,7 +38,7 @@ After sending the `start ota` command, the repeater should respond with:
 
 `Started: https://192.168.4.1/update`
 
-- **If you do not see this response:** Repeat Step 4.
+- **If you do not see this response:** Repeat Step 5.
 - **If you see this response:** Proceed to Step 7.
 
 ### Step 7 – Connect to the MeshCore OTA Wi-Fi Network
