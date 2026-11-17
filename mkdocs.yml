@@ -38,6 +38,7 @@ nav:
           - Expansion Port: Grumpyboard/expansion-port.md
       - Grumpy Jr:
           - Setup: Grumpy-Jr/setup.md
+          - Upgrade Firmware Over Wi-Fi: "Grumpy-Jr/wifi firmware updating.md"
       - Grumpy King:
           - Setup: Grumpy-King/setup.md
 
