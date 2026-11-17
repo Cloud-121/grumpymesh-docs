@@ -11,4 +11,16 @@ List of products with documentation available.
 <p>A compact, high-output MeshCore board built for reliable repeater deployments, with flexible power, Wi-Fi, OTA updates, and expansion support.</p>
 <span class="card-link">View product docs →</span>
 </a>
+<a class="feature-card" href="../Grumpy-Jr/setup/">
+<span class="card-kicker"></span>
+<h2>Grumpy Jr</h2>
+<p>Setup guide for the Grumpy Jr.</p>
+<span class="card-link">View product docs →</span>
+</a>
+<a class="feature-card" href="../Grumpy-King/setup/">
+<span class="card-kicker"></span>
+<h2>Grumpy King</h2>
+<p>Setup guide for the Grumpy King.</p>
+<span class="card-link">View product docs →</span>
+</a>
 </div>

@@ -36,6 +36,10 @@ nav:
           - Specs: Grumpyboard/board-specs.md
           - Getting Started: Grumpyboard/getting-started.md
           - Expansion Port: Grumpyboard/expansion-port.md
+      - Grumpy Jr:
+          - Setup: Grumpy-Jr/setup.md
+      - Grumpy King:
+          - Setup: Grumpy-King/setup.md
 
 extra:
   social:
