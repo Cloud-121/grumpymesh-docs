@@ -14,7 +14,7 @@ Using the provided T20 wrench, remove the T20 bolts securing the rear panel of t
 
 ### Step 3 – Install the Batteries
 
-Insert both 21700 lithium batteries into the battery compartment, making sure they are properly seated.
+Insert the 21700 lithium batteries into the battery compartment, making sure they are properly seated.
 
 ### Step 4 – Locate Your Grumpy Mesh Repeater
 
